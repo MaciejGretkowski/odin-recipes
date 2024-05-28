@@ -1,0 +1,22 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #cec;
+    color: #222;
+}
+
+.main-context h1 {
+    color:#01254b;
+    text-align: center;
+    border: 3px solid #01254b;
+}
+
+.main-context li {
+    display: inline;
+    padding: 0 25px;
+    
+}
+
+.main-context ul {
+    display: flex;
+    justify-content: center;
+}
